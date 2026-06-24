@@ -1,3 +1,6 @@
+## Live Demo
+[Open the app](https://ipl-win-predictor-onb.streamlit.app/)
+
 # IPL Win Predictor
 
 An end-to-end machine learning project that predicts the win probability of the chasing team in an IPL match using historical ball-by-ball IPL data.
